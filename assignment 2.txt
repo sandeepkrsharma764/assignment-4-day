@@ -1,0 +1,8 @@
+def fact (num):
+f=1
+for i in range (1, num+1):
+f=f*i
+return f
+def displaye():
+num-int (input ("enter the number")) print ("factprial is num of", fact (num))
+display ()
